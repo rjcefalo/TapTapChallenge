@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Sigmar+One');
+@font-face {
+  font-family: 'Sigmar One';  
+}
+
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0px;
+  border: 0;
+  overflow: hidden;
+  display: block;
+}
+
+canvas{
+  border: 1px black solid;
+  background-color: rgba(0,0,0,1)
+}
